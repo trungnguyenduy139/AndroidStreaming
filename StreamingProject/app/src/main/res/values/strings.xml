@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android LiveStreaming Video</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="full_screen_1">Full Screen Cam 1</string>
+    <string name="full_screen_2">Full Screen Cam 2</string>
+    <string name="full_screen_3">Full Screen Cam 3</string>
+    <string name="full_screen_4">Full Screen Cam 4</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Back to Home</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
