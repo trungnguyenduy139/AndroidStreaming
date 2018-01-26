@@ -98,9 +98,9 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
 
-        private const val IP1 = "http://169.254.201.103:9000/javascript_simple.html"
-        private const val IP2 = "http://169.254.201.103:9000/javascript_simple.html"
-        private const val IP3 = "http://169.254.201.103:9000/javascript_simple.html"
-        private const val IP4 = "http://169.254.201.103:9000/javascript_simple.html"
+        private const val IP1 = "http://192.168.137.230:8081"
+        private const val IP2 = "http://192.168.137.230:8082"
+        private const val IP3 = "http://192.168.137.230:8081"
+        private const val IP4 = "http://192.168.137.230:8082"
     }
 }
